@@ -1,0 +1,8 @@
+name: vf-geometry
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - plotly
